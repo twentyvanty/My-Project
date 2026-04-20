@@ -1,4 +1,12 @@
-.counter {
+:root {
+  --primary--ivory: #0b0b0d;
+  --secondary--nude: #1e1f22;
+  --primary--sky: #caa400;
+  --primary--baby: #ffd34d;
+  --secondary--bloom: #f2efe8;
+}
+
+/* .counter {
   font-size: 16px;
   padding: 5px 10px;
   border-radius: 5px;
@@ -181,4 +189,4 @@
     right: 0;
     border-right-color: var(--border);
   }
-}
+} */
